@@ -22,8 +22,8 @@ CheerioInstance('html').attr('lang', 'ru');
 CheerioInstance('title').text('React Microblog');
 
 CheerioInstance('head').append(`
-    <link rel="stylesheet" href="../css/bootstrap/bootstrap.min.css">
-    <link rel="stylesheet" href="../css/font-awesome/font-awesome.css">
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="css/font-awesome/font-awesome.css">
 `);
 
 CheerioInstance('body').append(`
